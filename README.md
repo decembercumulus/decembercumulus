@@ -2,7 +2,7 @@
 ```racket
 (information
  #:bio "high school student"
- #:programming '(python c++ c bash racket)
+ #:programming '(python c bash racket)
  #:os '(debian arch-linux)
  #:language/l1 '(british-english
                  hongkongese-cantonese)
@@ -23,4 +23,3 @@
 ### 🗓 Projects
 - [My Blog](https://decembercumulus.github.io/blog)
 - [RaspberryPi Smart Lock](https://github.com/fms-robotics/simple-rfid-doorlock)
-- [HTTP Cache Server for Steam](https://github.com/decembercumulus/steamcache)
